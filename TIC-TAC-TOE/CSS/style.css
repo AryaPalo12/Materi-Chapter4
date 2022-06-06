@@ -35,7 +35,9 @@
   }
   
 .cross {
-    background-color: yellow !important;
+    color: yellow !important;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
     text-align : center;
     padding:auto;
     font-size : 26px;
@@ -44,7 +46,9 @@
   }
   
 .circle {
-    background-color: blue !important;
+    color: blue !important;
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
     text-align : center;
     display : table;
     vertical-align:middle;
